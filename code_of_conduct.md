@@ -1,9 +1,9 @@
 Project Hydra Code of Conduct
 =============================
 
-Project Hydra is dedicated to providing a harassment-free community experience for everyone regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of community members in any form. Sexual or discriminatory language and imagery is not appropriate for any event venue, including talks, or any community channel (such as IRC-based chatrooms or mailing lists). Participants at Project Hydra meetings or conferences violating these rules may be sanctioned or expelled at the discretion of the organizers.
+Project Hydra is dedicated to providing a harassment-free community experience for everyone regardless of gender, sexual orientation, disability, physical appearance, ~~body size~~, race, or religion. We do not tolerate harassment of community members in any form. Sexual or discriminatory language and imagery is not appropriate for any event venue, including talks, or any community channel (such as IRC-based chatrooms or mailing lists). Participants at Project Hydra meetings or conferences violating these rules may be sanctioned or expelled at the discretion of the organizers.
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual and or discriminatory images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, ~~body size~~, race, religion, sexual and or discriminatory images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
