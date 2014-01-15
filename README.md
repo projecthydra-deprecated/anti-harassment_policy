@@ -1,3 +1,5 @@
+NOTE: This page has been deprecated; it now lives here: https://wiki.duraspace.org/display/hydra/Anti-Harassment+Policy
+
 Project Hydra Anti-Harassment Policy
 ====================================
 
