@@ -1,4 +1,12 @@
-NOTE: This page has been deprecated; it now lives here: https://wiki.duraspace.org/display/hydra/Anti-Harassment+Policy
+# NOTICE: THIS PROJECT IS DEPRECATED
+
+#### This project, and all others in [projecthydra-deprecated](http://github.com/projecthydra-deprecated), have been deprecated and are no longer actively maintained by the Hydra Project developer community. See the Hydra Project's main Github page at [projecthydra](http://github.com/projecthydra/) for projects that are actively maintained.
+
+Specifically, the anti-harassment policy has moved to here: https://wiki.duraspace.org/display/hydra/Anti-Harassment+Policy
+
+_Original README is below_
+
+--------------------------
 
 Project Hydra Anti-Harassment Policy
 ====================================
